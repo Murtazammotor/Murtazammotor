@@ -3,7 +3,7 @@
 🎓 Data Science Grad "University of Houston" 
 🔭 Currently working on Multiple projects focussing ML, Cloud AWS, Dashboards, AI.
 🌱 Learning: PyTorch, time-series modeling, deep learning systems
-📫 Reach me: your.email@example.com  •  [LinkedIn](https://linkedin.com/in/yourhandle)
+📫 Reach me: murtaza.motor5253@gmail.com  • https://www.linkedin.com/in/murtazamustafamotor/
 
 ## 🛠️ Tech Stack
 **Languages:** Python, SQL, JavaScript
