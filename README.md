@@ -31,5 +31,15 @@ Three synchronized roles share one Firebase backend:
 
 ---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Murtazammotor&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Murtazammotor&layout=compact&theme=tokyonight)
+## 📊 GitHub
+
+<p align="left">
+  <img src="https://img.shields.io/github/followers/Murtazammotor?label=Followers&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/stars/Murtazammotor?label=Stars&style=for-the-badge&color=yellow" />
+</p>
+
+<p align="left">
+  <a href="https://github.com/Murtazammotor/wisdm-har"><img src="https://img.shields.io/badge/WISDM_HAR-PyTorch%20Transformer-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /></a>
+  <a href="https://github.com/Murtazammotor/swift_movers"><img src="https://img.shields.io/badge/Swift_Movers-Flutter%20%2F%20Firebase-02569B?style=for-the-badge&logo=flutter&logoColor=white" /></a>
+  <a href="https://github.com/Murtazammotor/customer-review-intel"><img src="https://img.shields.io/badge/Customer_Review_Intel-Analytics-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" /></a>
+</p>
