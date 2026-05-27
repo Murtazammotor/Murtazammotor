@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Murtaza 👋
 
-<!--
-**Murtazammotor/Murtazammotor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Science Grad "University of Houston" 
+🔭 Currently working on Multiple projects focussing ML, Cloud AWS, Dashboards, AI.
+🌱 Learning: PyTorch, time-series modeling, deep learning systems
+📫 Reach me: your.email@example.com  •  [LinkedIn](https://linkedin.com/in/yourhandle)
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+**Languages:** Python, SQL, JavaScript
+**ML/DL:** PyTorch, scikit-learn, pandas, NumPy
+**Viz:** Plotly, Dash, Matplotlib
+**Tools:** Git, Docker, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+
+### 🤖 [WISDM HAR Transformer](https://github.com/Murtazammotor/wisdm-har)
+Vanilla Transformer for Human Activity Recognition on the WISDM dataset (51 subjects, 18 activities, 4 sensors). Achieves **73.8% val accuracy** with sensor fusion. Interactive Plotly Dash dashboard included.
+`PyTorch` `Transformer` `Dash` `HAR`
+
+### 📊 [Customer Review Intelligence](https://github.com/Murtazammotor/customer-review-intel)
+
+
+### 🚛 [Swift Movers](https://github.com/Murtazammotor/swift_movers)
+
+
+---
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Murtazammotor&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Murtazammotor&layout=compact&theme=tokyonight)
