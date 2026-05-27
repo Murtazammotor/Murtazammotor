@@ -20,7 +20,7 @@ Vanilla Transformer for Human Activity Recognition on the WISDM dataset (51 subj
 ### 📊 [Customer Review Intelligence](https://github.com/Murtazammotor/customer-review-intel)
 
 ### 🚚 [Swift Movers](https://github.com/Murtazammotor/swift_movers) — Final-Year Project
-An **on-demand cartage / logistics platform for Pakistan** — connecting customers with local pickup-truck drivers in real time. Built as my final-year B.Sc. capstone with [@KinzaNasir]() under Dr. Hasnain Mansoor at SZABIST Karachi.
+An **on-demand cartage / logistics platform for Pakistan** — connecting customers with local pickup-truck drivers in real time. Built as my final-year B.Sc. capstone under Dr. Hasnain Mansoor at SZABIST Karachi.
 
 Three synchronized roles share one Firebase backend:
 - **Customer** — book instantly (*"Jaldi Aao"*) or schedule, track driver live on the map, rate after delivery
